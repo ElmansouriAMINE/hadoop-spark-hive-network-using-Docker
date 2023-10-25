@@ -7,7 +7,7 @@ This is it: a Docker multi-container environment with Hadoop (HDFS), Spark and H
 The only thing lacking, is that Hive server doesn't start automatically. To be added when I understand how to do that in docker-compose.
 
 
-## Quick Start
+#### Quick Start ####
 
 To deploy an the HDFS-Spark-Hive cluster, run:
 ```
